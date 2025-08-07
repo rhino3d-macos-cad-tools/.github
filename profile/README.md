@@ -34,4 +34,4 @@ A quick look at key parts in action:
 - Others: Terminal access and active internet connection
 
 ## 🔍 SEO Keywords  
-\rhino 3d for mac\ · \rhino 8 macos\ · \nurbs modeling software\ · \3d modeling for architects\ · \industrial design macos\ · \grasshopper parametric tools\ · \precision cad for mac\ · \apple silicon 3d modeling\ · \rhino cad alternative\ · \mac-compatible modeling app\ · \retina display 3d software\ · \real-time viewport rendering\ · \macos dark mode cad\ · \digital fabrication tools mac\ · \architecture cad rhino\
+`rhino 3d for mac` · `rhino 8 macos` · `nurbs modeling software` · `3d modeling for architects` · `industrial design macos` · `grasshopper parametric tools` · `precision cad for mac` · `apple silicon 3d modeling` · `rhino cad alternative` · `mac-compatible modeling app` · `retina display 3d software` · `real-time viewport rendering` · `macos dark mode cad` · `digital fabrication tools mac` · `architecture cad rhino`
